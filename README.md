@@ -1,5 +1,6 @@
 # Data Collection with APIs & Webscraping
 
+
 ## Notebook 1: Using WEB API to display the movements of a Crypto-Currency
 
 >In the first step, I will be using the <a href="https://www.coingecko.com/en/api?utm_medium=Exinfluencer&utm_source=Exinfluencer&utm_content=000026UJ&utm_term=10006555&utm_id=NA-SkillsNetwork-Channel-SkillsNetworkCoursesIBMDeveloperSkillsNetworkPY0101ENSkillsNetwork19487395-2022-01-01"> CoinGecko API </a> to create a candlestick graphs for Bitcoin.
@@ -8,11 +9,18 @@
 
 
 >This is a snapshot of the Candlestick Chart:
-![This is an image](https://github.com/znawfar/WebAPI-CryptoCurrency/blob/main/CandlestickChart-CryptoCurrency.png)
+![This is an image](https://github.com/znawfar/Data-Collection-with-APIs-and-Webscraping/blob/main/CandlestickChart-CryptoCurrency.png)
+
 
 ## Notebook 2: RandomUser API
 
 >In this notebook, I am going to use Random User. RandomUser is an open-source, free API providing developers with randomly generated users to be used as placeholders for testing purposes. The API can return multiple results, as well as specify generated user details such as gender, email, image, username, address, title, first and last name, and more. At the end of the notebook, I have a pandas dataframe that can be used for any testing target.
+
+
+## Notebook 3: Fruitvice API
+
+>Fruitvice API is a free API that I am going to use in this notebook. The Fruitvice API webservice provides data for all kinds of fruit! I will use the API through requests library.
+
 
 
 #### To Be Continued!
