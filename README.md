@@ -1,6 +1,6 @@
 # Data Collection with APIs & Webscraping
 
-
+------------------------------------------------------------------------------------------------------------------
 ## Notebook 1: Using WEB API to display the movements of a Crypto-Currency
 
 >In the first step, I will be using the <a href="https://www.coingecko.com/en/api?utm_medium=Exinfluencer&utm_source=Exinfluencer&utm_content=000026UJ&utm_term=10006555&utm_id=NA-SkillsNetwork-Channel-SkillsNetworkCoursesIBMDeveloperSkillsNetworkPY0101ENSkillsNetwork19487395-2022-01-01"> CoinGecko API </a> to create a candlestick graphs for Bitcoin.
