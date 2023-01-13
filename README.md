@@ -23,7 +23,13 @@
 
 
 ## Notebook 4: Scraping the Contents of a Web Page & Images Tages 
-> I will download the contents of <a href="http://www.oracle.com" > Oracle web page </a>. Then I will scrape the Contents Of the Web Page and all image Tags.
+
+>I will download the contents of <a href="http://www.oracle.com" > Oracle web page </a>. Then I will scrape the Contents Of the Web Page and all image Tags.
+
+
+## Notebook 5: Scrape data from HTML tables into a DataFrame
+
+>I want to Scrape data from HTML tables into a DataFrame using BeautifulSoup, Pandas, and read_html. I am going to download the contents of <a href="https://en.wikipedia.org/wiki/Web_colors" > Web colors Wikipedia </a>.
 
 #### To Be Continued!
 
