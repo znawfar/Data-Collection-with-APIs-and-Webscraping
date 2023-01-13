@@ -22,6 +22,8 @@
 >Fruitvice API is a free API that I am going to use in this notebook. The Fruitvice API webservice provides data for all kinds of fruit! I will use the API through requests library.
 
 
+## Notebook 4: Scraping the Contents of a Web Page & Images Tages 
+> I will download the contents of <a href="http://www.oracle.com" > Oracle web page </a>. Then I will scrape the Contents Of the Web Page and all image Tags.
 
 #### To Be Continued!
 
