@@ -32,6 +32,5 @@
 >I want to Scrape data from HTML tables into a DataFrame using BeautifulSoup, Pandas, and read_html. I am going to download the contents of <a href="https://en.wikipedia.org/wiki/Web_colors" > Web colors Wikipedia </a>.
 
 
-
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
